@@ -22,7 +22,7 @@ Mettre en place une **infrastructure réseau complète** et **sécurisée** incl
    - Chaque DMZ est protégée par un firewall spécifique pour limiter les flux entrants/sortants.
 
 3. **Internet** :
-   - Connecté via un IDS (Intrusion Detection System) chargé de surveiller les anomalies réseau.
+   - Connecté via un IDS chargé de surveiller les anomalies réseau.
 
 4. **Firewalls (Stormshield)** :
    - Séparent les différentes zones (LAN, DMZ et Internet) et filtrent les flux réseau.
@@ -46,7 +46,7 @@ Mettre en place une **infrastructure réseau complète** et **sécurisée** incl
 ---
 
 ## 🔍 Supervision et détection
-1. **IDS (Intrusion Detection System)** :
+1. **IDS** :
    - Surveillance des anomalies réseau, telles que des attaques DoS ou des scans non autorisés.
    - Analyse du trafic pour détecter les tentatives de compromission.
 
